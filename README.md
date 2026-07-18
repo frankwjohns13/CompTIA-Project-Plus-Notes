@@ -1,3 +1,5 @@
+![CompTIA Security+ Badge](https://images.credly.com/size/340x340/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob)
+
 # CompTIA-Project-Plus-Notes
 My study notes and key concepts for Project+
 
