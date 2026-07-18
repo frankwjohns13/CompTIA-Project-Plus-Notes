@@ -20,6 +20,7 @@ My study notes and key concepts for Project+
   - **Project:** Single temporary effort
   - **Program:** Group of related projects
   - **Portfolio:** Collection of projects and programs aligned with strategy
+
 - **Organizational Structures**
   - **Functional** — Organized by departments; functional manager has most power
   - **Projectized** — Organized around projects; project manager has high authority
