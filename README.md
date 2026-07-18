@@ -109,6 +109,40 @@ My study notes and key concepts for Project+
 
 ## 4.0 Basics of IT and Governance (18%)
 
+### 4.1 Summarize basic environmental, social, and governance (ESG) factors related to project management activities
+-	**Environmental** — Sustainability, waste reduction, energy efficiency, e-waste disposal
+-	**Social** — Diversity, equity, inclusion, community impact, labor practices
+-	**Governance** — Ethical behavior, transparency, accountability, regulatory compliance
+-	ESG considerations are increasingly required in project proposals and decision-making
+
+### 4.2 Explain relevant information security concepts impacting project management
+-	Confidentiality, Integrity, and Availability (CIA Triad)
+-	Data protection and encryption requirements
+-	Access control and least privilege
+-	Security policies and compliance during project execution
+-	Handling sensitive data within project deliverables
+
+### 4.3 Explain relevant compliance and privacy considerations impacting project management
+-	Regulatory compliance (GDPR, HIPAA, CCPA, etc.)
+-	Data privacy laws and requirements
+-	Industry-specific regulations
+-	Audit and reporting obligations
+-	Privacy Impact Assessments (PIA)
+
+### 4.4 Summarize basic IT concepts relevant to IT project management
+-	Client-server vs cloud architectures
+-	Common IT infrastructure components
+-	Networking basics (LAN, WAN, Wi-Fi)
+-	Hardware/software lifecycle concepts
+-	Basic cybersecurity awareness
+
+### 4.5 Explain operational change-control processes during an IT project
+-	Formal change request process
+-	Change Control Board (CCB)
+-	Impact analysis (scope, schedule, cost, risk)
+-	Approval and documentation of changes
+-	Updating project plans and baselines after approved changes
+
 
 ## Website
 [View website](https://frankwjohns13.github.io/)
