@@ -19,7 +19,7 @@ My study notes and key concepts for Project+
 
 ### 1.3 Given a scenario, apply the change control process throughout the project life cycle.
 
--	**Project, Program, Portfolio**
+- **Project, Program, Portfolio**
   - **Project** - Single temporary effort
   - **Program** - Group of related projects
   - **Portfolio** - Collection of projects and programs aligned with strategy
