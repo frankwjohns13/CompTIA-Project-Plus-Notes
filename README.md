@@ -4,11 +4,13 @@ My study notes and key concepts for Project+
 ## 1.0 Project Management Concepts (33%)
 
 ### 1.1 Explain the basic characteristics of a project and various methologies and frameworks used in IT projects.
+
 -	Project management is the practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals within a defined timeframe.
 -	A project is temporary (has a defined start and end) and produces a unique deliverable.
 -	Operational work is repetitive, ongoing, and part of normal business activities.
 
 ### 1.2 Comapare and contrast Agile vs. Waterfall concepts.
+
 - Waterfall — Linear, sequential phases (good for projects with fixed requirements)
 -	Agile — Iterative, flexible, focuses on delivering value in small increments
 -	Hybrid — Combination of Waterfall and Agile
@@ -16,6 +18,7 @@ My study notes and key concepts for Project+
 -	Kanban — Visual workflow management
 
 ### 1.3 Given a scenario, apply the change control process throughout the project life cycle.
+
 -	**Project, Program, Portfolio**
   - **Project:** Single temporary effort
   - **Program:** Group of related projects
