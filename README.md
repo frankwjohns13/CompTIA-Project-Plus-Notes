@@ -20,9 +20,9 @@ My study notes and key concepts for Project+
 ### 1.3 Given a scenario, apply the change control process throughout the project life cycle.
 
 -	**Project, Program, Portfolio**
-  - **Project:** Single temporary effort
-  - **Program:** Group of related projects
-  - **Portfolio:** Collection of projects and programs aligned with strategy
+  - **Project** - Single temporary effort
+  - **Program** - Group of related projects
+  - **Portfolio** - Collection of projects and programs aligned with strategy
 
 - **Organizational Structures**
   - **Functional** — Organized by departments; functional manager has most power
