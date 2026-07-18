@@ -86,6 +86,27 @@ My study notes and key concepts for Project+
 
 ## 3.0 Tools and Documents (19%)
 
+### 3.1 Given a scenario, use the appropriate tools throughout the project life cycle
+**Common Project Management Tools**
+-	Scheduling tools (Microsoft Project, Jira, Asana)
+-	Collaboration tools (Microsoft Teams, Slack)
+-	Document management (SharePoint, Google Drive)
+-	Communication tools (email, video conferencing)
+
+### 3.2 Compare and contrast various project management tools
+-	**Gantt Charts** — Visual timeline of tasks and dependencies
+-	**Work Breakdown Structure (WBS)** — Hierarchical decomposition of the project
+-	**Dashboards** — Real-time project status overview
+-	**Kanban Boards** — Visual workflow management
+
+### 3.3 Given a scenario, analyze quality and performance charts to inform project decisions
+**Key Charts & Metrics**
+-	**Burndown Chart** — Shows remaining work in Agile/Sprint projects
+-	**Gantt Chart** — Progress vs planned schedule
+-	**Earned Value Management (EVM)** — Cost and schedule performance
+-	**Key Performance Indicators (KPIs)** — Budget variance, schedule variance, etc.
+-	**Resource Histogram** — Resource allocation over time
+
 ## 4.0 Basics of IT and Governance (18%)
 
 
