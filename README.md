@@ -18,35 +18,71 @@ My study notes and key concepts for Project+
 -	Kanban — Visual workflow management
 
 ### 1.3 Given a scenario, apply the change control process throughout the project life cycle.
-
+- Projects must be temporary, unique, and provide value
 - **Project, Program, Portfolio**
   - **Project** - Single temporary effort
   - **Program** - Group of related projects
   - **Portfolio** - Collection of projects and programs aligned with strategy
-
 - **Organizational Structures**
   - **Functional** — Organized by departments; functional manager has most power
   - **Projectized** — Organized around projects; project manager has high authority
   - **Matrix** — Hybrid (Weak vs Strong Matrix)
 
 ### 1.4 Given a scenario, perform risk management activities.
+-	**Project Manager** — Leads planning and execution
+-	**Sponsor** — Provides funding and high-level support
+-	**Stakeholder** — Anyone with interest in the project outcome
+-	**Program Manager** — Oversees multiple related projects
+-	**PMO** — Provides governance, templates, and standards
 
 ### 1.5 Given a scenario, perform issue management activities.
+-	**Functional** — Organized by department; functional manager has more power
+-	**Projectized** — Organized around projects; project manager has high authority
+-	**Matrix** — Hybrid model (Weak vs Strong Matrix)
 
 ### 1.6 Given a scenario, apply schedule development and management activities and techniques.
-
-### 1.7 Compare and contrast quality management concepts and performance management concepts.
-
-### 1.8 Compare and contrast communication management concepts.
-
-### 1.9 Given a scenario, apply effective meeting management techniques.
-
-### 1.10 Given a scenario, perform basic activities related to team and resource management.
-
-### 1.11 Explain important project procurement and vendor selection concepts.
-
+-	Saves time and money
+-	Reduces risk
+-	Improves quality and stakeholder satisfaction
+-	Provides structure to complex work
 
 ## 2.0 Project Life Cycle Phases (30%)
+
+### 2.1 Explain the value of conducting project discovery activities
+-	Identify business needs and feasibility
+-	Gather high-level requirements
+-	Determine project objectives and success criteria
+-	Assess constraints and assumptions
+
+### 2.2 Given a scenario, perform activities in the project initiation phase
+-	Create the Project Charter
+-	Identify and engage stakeholders
+-	Define high-level scope and objectives
+-	Obtain formal approval to proceed
+-	Assign the project manager
+
+### 2.3 Given a scenario, perform activities during the project planning phase
+-	Develop the detailed Project Management Plan
+-	Create Work Breakdown Structure (WBS)
+-	Develop schedule, budget, and resource plans
+-	Identify risks and create risk register
+-	Establish communication plan
+-	Define quality and procurement plans
+
+### 2.4 Given a scenario, perform activities during the project execution phase
+-	Execute the work defined in the project management plan
+-	Manage team performance and resolve issues
+-	Implement approved changes
+-	Manage stakeholder expectations
+-	Conduct quality assurance activities
+
+### 2.5 Given a scenario, perform activities during the project closing phase
+-	Obtain formal acceptance of deliverables
+-	Close contracts and reconcile budget
+-	Document lessons learned
+-	Release resources
+-	Archive project documentation
+-	Celebrate project success
 
 ## 3.0 Tools and Documents (19%)
 
